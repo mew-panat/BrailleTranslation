@@ -1,4 +1,4 @@
-# BrailleTransaltion
+# BrailleTranslation
 
 This translator converts the Braille alphabet into the English alphabet.
 
